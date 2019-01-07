@@ -1,0 +1,57 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	background-color: #FFD99F;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#footer {
+	font-size: x-small;
+	font-style: italic;
+	text-align: center;
+}
+.submit {
+	background-color: #E6D8AE;
+	border: thin outset #FFB55F;
+}
+#configure .code {
+	width: 4em;
+}
+#configure .title {
+	width: 12em;
+}
+h1 {
+	color: #000000;
+	font-style: italic;
+}
+h2 {
+	font-size: large;
+}
+#menubar a {
+	width: auto;
+	margin: 0.2em;
+	padding: 0.2em;
+	vertical-align: middle;
+	text-align: center;
+	background-color: #E6D8AE;
+	color: #000000;
+	border: thin solid #7F5A2F;
+	text-decoration: none;
+}
+#menubar {
+	background-color: #FFB55F;
+	margin: 0.75em;
+	padding: 0.75em;
+}
+#contents {
+	background-color: #FFEFD9;
+}
